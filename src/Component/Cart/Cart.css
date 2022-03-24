@@ -1,0 +1,8 @@
+.cart{
+    padding-top: 50px;
+    padding-left: 20px;
+    position:sticky;
+    top:0px;
+    background-color: rgba(30, 30, 128, 0.472);
+    height: 100vh;
+}

@@ -1,0 +1,27 @@
+.navbar{
+    height: 80px;
+    background-color: rgb(21, 21, 39);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 7%;
+    padding-right: 7%;
+}
+.logo{
+    font-size: 53px;
+    color: aliceblue;
+   
+}
+
+.menu-bar{
+font-size: 18px;
+}
+.menu-bar a{
+text-decoration: none;
+color: white;
+padding-left: 20px;
+}
+.menu-bar a:hover{
+    color:orange
+
+}
